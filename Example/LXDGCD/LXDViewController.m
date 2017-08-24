@@ -7,6 +7,9 @@
 //
 
 #import "LXDViewController.h"
+#import <LXDGCD/LXDGCD.h>
+#import <LXDGCD/LXDAsyncQueue.h>
+
 
 @interface LXDViewController ()
 

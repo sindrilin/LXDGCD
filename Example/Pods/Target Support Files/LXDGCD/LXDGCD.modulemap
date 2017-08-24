@@ -1,0 +1,6 @@
+framework module LXDGCD {
+  umbrella header "LXDGCD-umbrella.h"
+
+  export *
+  module * { export * }
+}

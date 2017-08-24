@@ -1,0 +1,6 @@
+framework module Pods_LXDGCD_Tests {
+  umbrella header "Pods-LXDGCD_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
