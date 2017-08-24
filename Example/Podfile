@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LXDGCD_Example' do
+  pod 'LXDGCD', :path => '../'
+
+  target 'LXDGCD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
